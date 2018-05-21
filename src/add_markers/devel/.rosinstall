@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robond/catkin_ws/src/add_markers/devel/setup.sh
